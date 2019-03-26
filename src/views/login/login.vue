@@ -1,4 +1,5 @@
 <template>
+
   <div>
     <el-card class="login-form-layout">
       <el-form autoComplete="on"
@@ -45,6 +46,7 @@
     </el-card>
     <img :src="login_center_bg" class="login-center-layout">
   </div>
+
 </template>
 
 <script>
