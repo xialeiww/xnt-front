@@ -10,7 +10,7 @@
         <div style="text-align: center">
           <svg-icon icon-class="login-mall" style="width: 56px;height: 56px;color: #409EFF"></svg-icon>
         </div>
-        <h2 class="login-title color-main">学能通总部端</h2>
+        <h2 class="login-title color-main">学能通总部端登陆</h2>
         <el-form-item prop="username">
           <el-input name="username"
                     type="text"
